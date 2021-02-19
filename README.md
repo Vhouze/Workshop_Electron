@@ -22,7 +22,7 @@ Pourquoi avons nous choisi ce Workshop ?
 * https://www.electronjs.org/
 * Les technologies utilisées
 * Les avantages d'ElectronJs
-* les entreprises utilisants ElectronJs
+* les entreprises utilisant ElectronJs
 
 <a name="sujet"></a>
 ### Présentation du sujet
